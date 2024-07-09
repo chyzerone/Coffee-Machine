@@ -1,0 +1,15 @@
+../Core/Src/main.c:88:5:main	19
+../Core/Src/main.c:197:6:SystemClock_Config	4
+../Core/Src/main.c:241:13:MX_ADC1_Init	3
+../Core/Src/main.c:288:13:MX_GPIO_Init	1
+../Core/Src/main.c:358:1:HAL_GPIO_EXTI_Callback	9
+../Core/Src/main.c:394:6:fincanBoyutGostergeKontrol	5
+../Core/Src/main.c:415:6:fincanSayiGostergeKontrol	5
+../Core/Src/main.c:442:6:pompaCalistir	1
+../Core/Src/main.c:447:6:pompaDurdur	1
+../Core/Src/main.c:452:6:rezistansCalistir	1
+../Core/Src/main.c:457:6:rezistansDurdur	1
+../Core/Src/main.c:462:6:alarmLedveBuzzerAc	1
+../Core/Src/main.c:469:6:alarmLedveBuzzerKapa	1
+../Core/Src/main.c:474:6:SicaklikOkuveKontrolEt	3
+../Core/Src/main.c:497:6:Error_Handler	1

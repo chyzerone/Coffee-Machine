@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Coffee Machine.PcbDoc   28.12.2023  21:06:40
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Coffee Machine.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             10        PTH        108.93mm (4.29inch)
+T2      0.35mm (14mil)                                            Round             33        PTH        272.58mm (10.73inch)
+T3      0.7mm (28mil)                                             Round             4         PTH        7.74mm (0.30inch)
+T4      0.8mm (31mil)                                             Round             4         PTH        69.10mm (2.72inch)
+T5      0.87mm (34mil)                                            Round             6         PTH        7.50mm (0.30inch)
+T6      0.991mm (39mil)                                           Round             16        PTH        152.45mm (6.00inch)
+T7      1mm (39mil)                                               Round             8         PTH        96.07mm (3.78inch)
+T8      1.75mm (69mil)                                            Round             4         PTH        100.23mm (3.95inch)
+T9      3mm (118mil)                                              Round             4         PTH        248.00mm (9.76inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              89
+
+Total Processing Time (hh:mm:ss) : 00:00:00

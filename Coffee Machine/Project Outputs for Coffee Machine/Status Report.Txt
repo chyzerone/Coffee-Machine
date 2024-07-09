@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Coffee Machine.PrjPcb]
+   Generated File[Coffee Machine.TXT]
+   Generated File[Coffee Machine.LDP]
+   Generated File[Coffee Machine.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:06:40 On 28.12.2023

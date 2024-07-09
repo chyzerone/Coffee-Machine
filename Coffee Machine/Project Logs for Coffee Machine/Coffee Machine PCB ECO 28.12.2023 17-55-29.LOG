@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AC_LINE_1 Pin=J*1-2
+Removed Pin From Net: NetName=AC_LINE_1 Pin=Q1-2
+Added Pin To Net: NetName=AC_LINE_1_IN Pin=J*1-2
+Added Pin To Net: NetName=AC_LINE_1_IN Pin=Q1-2
+Added Net: Name=AC_LINE_1_IN
+Added Member To Class: ClassName=Power Management Member=Component J3 64800611622
